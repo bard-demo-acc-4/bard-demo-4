@@ -7,6 +7,7 @@ This recipe makes one 23 cm apple tart. It serves 8–10 people. Total time: ~2 
 
 * 250 g plain flour
 * 125 g cold butter
+* 15 g butter
 * 50 g caster sugar
 * 1 egg
 * 1–2 tablespoons cold water
@@ -14,7 +15,6 @@ This recipe makes one 23 cm apple tart. It serves 8–10 people. Total time: ~2 
 * 40 g caster sugar
 * 1 teaspoon ground cinnamon
 * 1 tablespoon lemon juice
-* 15 g butter
 
 == Equipment
 
@@ -93,7 +93,7 @@ If the pastry shrinks during baking, you may have stretched it when lining the t
 
 [NOTE]
 ====
-If the pastry browns too quickly, cover the tart loosely with baking paper for the remaining baking time. Different apple varieties cook at different rates—if the pastry is golden but the apples still feel firm, continue baking a little longer or slice the apples thinner next time.
+If the pastry browns too quickly, cover the tart loosely with baking paper for the remaining baking time. Different apple varieties cook at different rates—if the pastry is golden but the apples sti[...]
 ====
 
 == Cool, Serve, and Store
